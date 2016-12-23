@@ -1,0 +1,25 @@
+{
+    "folders":
+    [
+        {
+            "name": "Notes",
+            "path": "00_notes",
+        },
+        {
+            "name": "Hello World",
+            "path": "01_hello_world",
+        },
+        {
+            "name": "Hello Cargo",
+            "path": "02_hello_cargo",
+        },
+        {
+            "name": "Guessing Game",
+            "path": "03_guessing_game",
+        },
+    ],
+    "settings":
+    {
+        "tab_size": 4,
+    },
+}
