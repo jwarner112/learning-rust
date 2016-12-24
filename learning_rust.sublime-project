@@ -25,6 +25,26 @@
             "name": "Floats",
             "path": "05_floats",
         },
+        {
+            "name": "Numeric Ops",
+            "path": "06_num_ops",
+        },
+        {
+            "name": "Tuples",
+            "path": "07_tuples",
+        },
+        {
+            "name": "Arrays",
+            "path": "08_arrays",
+        },
+        {
+            "name": "Functions",
+            "path": "09_functions",
+        },
+        {
+            "name": "Ranges",
+            "path": "10_ranges",
+        },
     ],
     "settings":
     {
