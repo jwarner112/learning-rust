@@ -17,6 +17,14 @@
             "name": "Guessing Game",
             "path": "03_guessing_game",
         },
+        {
+            "name": "Variables",
+            "path": "04_variables",
+        },
+        {
+            "name": "Floats",
+            "path": "05_floats",
+        },
     ],
     "settings":
     {
