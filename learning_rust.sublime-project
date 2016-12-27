@@ -45,6 +45,10 @@
             "name": "Ranges",
             "path": "10_ranges",
         },
+        {
+            "name": "Clone vs Copy",
+            "path": "11_clone_vs_copy",
+        },
     ],
     "settings":
     {

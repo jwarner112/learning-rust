@@ -1,0 +1,6 @@
+[package]
+name = "clone_vs_copy"
+version = "0.1.0"
+authors = ["Jeff Warner <jeff@develops.software>"]
+
+[dependencies]
